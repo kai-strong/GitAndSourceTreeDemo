@@ -17,6 +17,17 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    /**
+     * Allen做了些东西
+     
+     * 1.<#第一#>
+     * 2.<#第二#>
+     * 3.<#第三#>
+     * 4.<#第四#>
+     */
+    
+    
     return YES;
 }
 
