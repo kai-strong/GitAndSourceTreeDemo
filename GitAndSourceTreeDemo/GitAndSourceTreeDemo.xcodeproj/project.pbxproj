@@ -14,6 +14,7 @@
 		00CF2E1723AA0D8800F3F3CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00CF2E1623AA0D8800F3F3CF /* Assets.xcassets */; };
 		00CF2E1A23AA0D8800F3F3CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00CF2E1823AA0D8800F3F3CF /* LaunchScreen.storyboard */; };
 		00CF2E1D23AA0D8800F3F3CF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 00CF2E1C23AA0D8800F3F3CF /* main.m */; };
+		00CF2E2B23AA8D3A00F3F3CF /* BillDo.m in Sources */ = {isa = PBXBuildFile; fileRef = 00CF2E2A23AA8D3A00F3F3CF /* BillDo.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		00CF2E1923AA0D8800F3F3CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		00CF2E1B23AA0D8800F3F3CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00CF2E1C23AA0D8800F3F3CF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		00CF2E2923AA8D3A00F3F3CF /* BillDo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BillDo.h; sourceTree = "<group>"; };
+		00CF2E2A23AA8D3A00F3F3CF /* BillDo.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BillDo.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				00CF2E0E23AA0D8500F3F3CF /* SceneDelegate.m */,
 				00CF2E1023AA0D8500F3F3CF /* ViewController.h */,
 				00CF2E1123AA0D8500F3F3CF /* ViewController.m */,
+				00CF2E2923AA8D3A00F3F3CF /* BillDo.h */,
+				00CF2E2A23AA8D3A00F3F3CF /* BillDo.m */,
 				00CF2E1323AA0D8500F3F3CF /* Main.storyboard */,
 				00CF2E1623AA0D8800F3F3CF /* Assets.xcassets */,
 				00CF2E1823AA0D8800F3F3CF /* LaunchScreen.storyboard */,
@@ -148,6 +153,7 @@
 			files = (
 				00CF2E1223AA0D8500F3F3CF /* ViewController.m in Sources */,
 				00CF2E0C23AA0D8500F3F3CF /* AppDelegate.m in Sources */,
+				00CF2E2B23AA8D3A00F3F3CF /* BillDo.m in Sources */,
 				00CF2E1D23AA0D8800F3F3CF /* main.m in Sources */,
 				00CF2E0F23AA0D8500F3F3CF /* SceneDelegate.m in Sources */,
 			);
